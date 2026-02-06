@@ -189,7 +189,7 @@
 - PyTorch 기반 딥러닝 모델 구현 능력 확보
 
 
-## 관련 github
+## 6. 관련 지료
 
 [1. Deep-Learning-with-TensorFlow](https://github.com/ancestor9/2025_Winter_Deep-Learning-with-TensorFlow)
 
