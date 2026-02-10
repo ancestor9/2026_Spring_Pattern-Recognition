@@ -189,8 +189,12 @@
 - PyTorch 기반 딥러닝 모델 구현 능력 확보
 
 
-## 6. 관련 지료
+## 6. 관련 자료
 
-[1. Deep-Learning-with-TensorFlow](https://github.com/ancestor9/2025_Winter_Deep-Learning-with-TensorFlow)
+[1. Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 
-[2. Deep-Learning-with-Pytorch](https://github.com/ancestor9/2025_Winter_Deep-Learning-with-Pytorch)
+[2. Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
+
+[3. Deep-Learning-with-TensorFlow](https://github.com/ancestor9/2025_Winter_Deep-Learning-with-TensorFlow)
+
+[4. Deep-Learning-with-Pytorch](https://github.com/ancestor9/2025_Winter_Deep-Learning-with-Pytorch)
