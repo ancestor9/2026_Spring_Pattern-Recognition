@@ -1,5 +1,5 @@
 # Syllabus
-[Notion](https://www.notion.so/2026_Spring_Pattern-Recognition-2ff49ab460ef80009069cb8fe2935447)
+## [Goto Notion](https://www.notion.so/2026_Spring_Pattern-Recognition-2ff49ab460ef80009069cb8fe2935447)
 # 딥러닝 기초 및 응용 실라버스 (15주, 주 3시간)
 
 ## 1. 교과목 개요
