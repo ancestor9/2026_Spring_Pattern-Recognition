@@ -1,15 +1,8 @@
 # Syllabus
 ## [Goto Notion](https://www.notion.so/2026_Spring_Pattern-Recognition-2ff49ab460ef80009069cb8fe2935447)
-### 딥러닝 기초 및 응용 실라버스(Representation Learning, 데이터표준화)
+## 1. 딥러닝 기초 및 응용 실라버스(Representation Learning, 데이터표준화)
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*FTv0YjReFNoE8phRcfFKBg.png" width=600>
-
-
-## 1. 교과목 개요
-- **교과목명**: 딥러닝 기초 및 응용
-- **수업시간**: 주 1회, 3시간 (이론 + 실습)
-- **수업방식**: 이론 강의 + Python 기반 실습 (NumPy, PyTorch)
-- **선수지식**: Python, Scikit-learn
 
 ## 2. 학습목표
 본 교과목은 딥러닝에 필수적인 **선형대수, 통계, 확률 이론**을 이해하고,  
