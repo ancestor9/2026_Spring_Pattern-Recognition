@@ -162,7 +162,8 @@
 
 
 
-## 6. 
+## 6. AI·데이터 실무 역량 단계별 정리
+
 | 단계  | 학습 영역              | 핵심 목표                              | 필요한 기술 / 도구                                     |
 | --- | ------------------ | ---------------------------------- | ----------------------------------------------- |
 | 1단계 | 프로그래밍 기초 & 데이터 사고력 | 계산적 사고력 확보 및 데이터 처리 기본기 형성         | Python, Pandas, Matplotlib, 기본 알고리즘/로직          |
@@ -177,7 +178,7 @@
 
 ## 7. 관련 자료
 
-- [1. Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+[1. Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 
 [2. Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 
