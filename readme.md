@@ -161,9 +161,23 @@
 - PyTorch 기반 딥러닝 모델 구현 능력 확보
 
 
-## 6. 관련 자료
 
-[1. Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
+## 6. 
+| 단계  | 학습 영역              | 핵심 목표                              | 필요한 기술 / 도구                                     |
+| --- | ------------------ | ---------------------------------- | ----------------------------------------------- |
+| 1단계 | 프로그래밍 기초 & 데이터 사고력 | 계산적 사고력 확보 및 데이터 처리 기본기 형성         | Python, Pandas, Matplotlib, 기본 알고리즘/로직          |
+| 2단계 | 데이터 파이프라인 이해       | 데이터 수집 → 저장 → API → 웹 서비스 전체 흐름 이해 | Selenium, SQLite, FastAPI, Streamlit            |
+| 3단계 | 머신러닝 수학 기반         | 알고리즘 작동 원리를 수학적으로 이해               | NumPy, SciPy, 선형대수(벡터·행렬), 미적분(Gradient)        |
+| 4단계 | 데이터 분석 & 예측        | 데이터 인사이트 도출 및 전통적 ML 모델 구현         | EDA, Feature Engineering, Scikit-learn, Tableau |
+| 5단계 | 딥러닝 & 이미지 처리       | 신경망 구조 이해 및 이미지 AI 구현              | PyTorch 또는 TensorFlow, CNN, OpenCV              |
+| 6단계 | 텍스트 & 시퀀스 모델       | 자연어 및 순차 데이터 처리 역량 확보              | NLP 전처리, KoNLPy, Word Embedding, RNN            |
+| 7단계 | LLM 기반 AI 서비스      | 생성형 AI 기반 실전 서비스 설계 및 구현           | OpenAI API, LangChain, Vector DB, RAG           |
+
+
+
+## 7. 관련 자료
+
+- [1. Visual explanations of core machine learning concepts](https://mlu-explain.github.io/)
 
 [2. Master AI Concepts with Interactive Learning!](https://www.101ai.net/overview/basics)
 
