@@ -9,7 +9,7 @@
 - **교과목명**: 딥러닝 기초 및 응용
 - **수업시간**: 주 1회, 3시간 (이론 + 실습)
 - **수업방식**: 이론 강의 + Python 기반 실습 (NumPy, PyTorch)
-- **선수지식**: Python 기초, 미분 개념(권장), [Scikit-learn Machine Learning](https://github.com/ancestor9/AI-with-python)
+- **선수지식**: Python, Scikit-learn
 
 ## 2. 학습목표
 본 교과목은 딥러닝에 필수적인 **선형대수, 통계, 확률 이론**을 이해하고,  
