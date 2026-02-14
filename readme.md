@@ -14,7 +14,7 @@
 
 ### Week 1. 딥러닝 개요 및 수학적 기초 정리
 - 이론
-  - 딥러닝의 발전 배경과 활용 분야, 머신러닝 vs 딥러닝
+  - 딥러닝의 발전 배경과 활용 분야, [머신러닝](https://github.com/ancestor9/ADSP-Crash-Course/blob/main/Introduction_to_Machine_learning_.ipynb) vs 딥러닝
   - 딥러닝 학습을 위한 수학 로드맵
 - 실습
   - Python / NumPy, 벡터·행렬 연산 복습
