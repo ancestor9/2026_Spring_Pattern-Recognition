@@ -21,7 +21,7 @@
 | 2    | 확률론 기초              | 확률변수와 확률분포<br>이산/연속 확률분포<br>기댓값과 분산                      | 난수 생성<br>확률분포 시각화               |
 | 3    | 딥러닝 개요 및 수학적 기초     | 딥러닝 발전 배경 및 활용 분야<br>머신러닝 vs 딥러닝<br>수학 로드맵 정리            | Python / NumPy 복습<br>벡터·행렬 연산   |
 | 4    | 선형대수 I – 벡터와 행렬     | 벡터, 행렬, 스칼라<br>내적, 외적<br>행렬 곱                            | NumPy 행렬 연산<br>브로드캐스팅 이해        |
-| 5    | 선형대수 II – 선형변환과 고유값 | 선형변환 개념<br>고유값·고유벡터<br>PCA 직관                            | 고유값 분해 실습<br>간단한 PCA 구현         |
+| 5    | 선형대수 II – 선형변환과 고유값 | 선형변환 개념<br>고유값·고유벡터<br>PCA 직관, 차원축소(Dimension Reduction)알고리즘                          | 고유값 분해 실습<br>간단한 PCA 구현         |
 | 6    | 미분과 경사하강법           | 미분의 직관적 의미<br>편미분과 기울기<br>경사하강법                          | 손실함수 시각화<br>Gradient Descent 구현 |
 | 7    | 신경망 기초 – 퍼셉트론과 FNN  | 퍼셉트론 구조<br>다층 신경망(FNN)<br>활성화 함수                         | FNN 직접 구현 (NumPy)<br>활성화 함수 비교  |
 | 8    | 중간고사 및 손실함수와 최적화           | MSE, Cross-Entropy<br>SGD, Momentum, Adam<br>Overfitting | PyTorch 기초<br>Optimizer 비교 실험   |
