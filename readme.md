@@ -1,6 +1,6 @@
 # Syllabus
 ## [Goto Notion](https://www.notion.so/2026_Spring_Pattern-Recognition-2ff49ab460ef80009069cb8fe2935447)
-## 1. 딥러닝 기초 및 응용 실라버스(Representation Learning, 데이터표준화)
+## 1. 실라버스(Representation Learning, 데이터표준화)
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*FTv0YjReFNoE8phRcfFKBg.png" width=600>
 
