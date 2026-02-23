@@ -24,7 +24,7 @@
 | 5    | 선형대수 II – 선형변환과 고유값 | 선형변환 개념<br>고유값·고유벡터<br>PCA 직관                            | 고유값 분해 실습<br>간단한 PCA 구현         |
 | 6    | 미분과 경사하강법           | 미분의 직관적 의미<br>편미분과 기울기<br>경사하강법                          | 손실함수 시각화<br>Gradient Descent 구현 |
 | 7    | 신경망 기초 – 퍼셉트론과 FNN  | 퍼셉트론 구조<br>다층 신경망(FNN)<br>활성화 함수                         | FNN 직접 구현 (NumPy)<br>활성화 함수 비교  |
-| 8    | 손실함수와 최적화           | MSE, Cross-Entropy<br>SGD, Momentum, Adam<br>Overfitting | PyTorch 기초<br>Optimizer 비교 실험   |
+| 8    | 중간고사 및 손실함수와 최적화           | MSE, Cross-Entropy<br>SGD, Momentum, Adam<br>Overfitting | PyTorch 기초<br>Optimizer 비교 실험   |
 | 9    | 학습 안정화 기법           | Weight Initialization<br>L1/L2 Regularization<br>Dropout | 학습 곡선 분석<br>과적합 방지 실험           |
 | 10   | CNN I – 합성곱 신경망     | 이미지 데이터 특성<br>Convolution / Pooling<br>CNN 구조            | CNN 기본 구조 구현<br>이미지 분류 실습       |
 | 11   | CNN II – 심화 및 응용    | 필터와 특징 맵<br>LeNet, AlexNet 개요                            | CIFAR-10 분류<br>성능 개선 실험         |
