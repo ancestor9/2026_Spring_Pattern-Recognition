@@ -2,7 +2,7 @@
 ## 1. 과목 명 : 데이터표준화 --> Data Representation 표현이 더 적합함
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*FTv0YjReFNoE8phRcfFKBg.png" width=600>
 
-[Data Representation](https://github.com/ancestor9/2026_Spring_Data_Standardization/blob/main/Introduction_to_Machine_learning_.ipynb)
+###[Data Representation](https://github.com/ancestor9/2026_Spring_Data_Standardization/blob/main/Introduction_to_Machine_learning_.ipynb)
 
 ## 2. 학습목표
 본 교과목은 딥러닝에 필수적인 **선형대수, 통계, 확률 이론**을 이해하고,  
