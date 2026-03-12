@@ -1,11 +1,13 @@
 ## 실라버스
-## 1. 과목 명 : 데이터표준화
+## 1. 과목 명 : 데이터표준화 --> Data Representation 표현이 더 적합함
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*FTv0YjReFNoE8phRcfFKBg.png" width=600>
 
 ## 2. 학습목표
 본 교과목은 딥러닝에 필수적인 **선형대수, 통계, 확률 이론**을 이해하고,  
 이를 바탕으로 **FNN, CNN, RNN 등 주요 딥러닝 모델의 원리와 구현 능력**을 기르는 것을 목표로 한다.
 
+
+<img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*WvOnZ27TdPUbJfa9q21QJw.png">
 ---
 
 ### 3. 수업 진행 및 평가 방식
